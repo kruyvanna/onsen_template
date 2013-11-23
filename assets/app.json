@@ -1,0 +1,29 @@
+{
+    "plugins": {
+        "jQuery": {
+            "jquery-js": [
+                "jquery-2.0.js"
+            ]
+        },
+        "monaca.js": [
+
+        ],
+        "phonegap\/cordova.js": [
+
+        ],
+        "OnsenUI": {
+            "Onsen UI": [
+                "onsen_ui_0.6.0.js"
+            ],
+            "theme": [
+                "0.6.0_topcoat-mobile-light.css"
+            ]
+        }
+    },
+    "splash": {
+        "android": {
+            "background": "#cccccc"
+        }
+    },
+    "version": "1.0"
+}
